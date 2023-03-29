@@ -6,6 +6,7 @@
     align-items: center;
     padding-left: 100px;
     padding-right: 100px;
+    
 }
 .header a{
     text-decoration: none;
@@ -16,9 +17,5 @@
 
 nav{
     margin-top: -8px;
-}
-
-nav.header a:hover{
-
-
+    margin-left: -20px;
 }
